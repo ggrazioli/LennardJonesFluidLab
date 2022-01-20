@@ -5,7 +5,7 @@ Lennard-Jones fluid simulation code in Python with a Jupyter-based lab activity 
 This Lennard-Jones (LJ) fluid simulation Python codes, the accompanying Jupyter notebook, and the lab activity were written by: 
 
 Gianmarc Grazioli, Ph.D. <br>
-website: http://gianmarc.com/
+http://gianmarc.com/
 
 The lab activity includes a YouTube video, making it possible to assign this activity as a fully asynchronous lab activity. The video that accompanies this lab activity can be found here:
 https://youtu.be/WgyuJYh1VaA
