@@ -25,3 +25,5 @@ More experienced programmers that want to jump straight into using the Lennard-J
 Statistical mechanics afficionados should note that the simulations are of NVE ensembles, aka microcanonical ensembles. 
 
 Have fun! 
+
+Dr. G
