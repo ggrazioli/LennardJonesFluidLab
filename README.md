@@ -22,4 +22,6 @@ The Jupyter notebook LennardJonesFluidLab.ipynb gives some background on LJ flui
 
 More experienced programmers that want to jump straight into using the Lennard-Jones simulation should reference the main.py file, which will plot the LJ potential, run a short LJ fluid simulation, calculate a radial distribution function from the data, and create a .xyz file of the trajectory that can be opened in molecular dynamics data visualization software like VMD or PyMOL.  
 
+Statistical mechanics afficionados should note that the simulations are of NVE ensembles, aka microcanonical ensembles. 
+
 Have fun! 
