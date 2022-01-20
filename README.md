@@ -1,7 +1,6 @@
-# LennardJonesFluidLab
+# Lennard-Jones Fluid Simulation Lab
 Lennard-Jones fluid simulation code in Python with a Jupyter-based lab activity for students
 
-Lennard-Jones Fluid Simulation Lab Activity
 
 This Lennard-Jones (LJ) fluid simulation Python code, the accompanying Jupyter notebook, and the lab activity were written by: 
 
