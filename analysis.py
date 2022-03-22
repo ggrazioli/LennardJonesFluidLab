@@ -56,7 +56,7 @@ def GetRDF_SolidSphere(ensemble, radSteps=20, sampleFrac=.4):
     out = zip(np.linspace(0, ensemble.sideLen/2, radSteps), RDF)
     return (pd.DataFrame(out, columns=['r','RDF']))
 
-def GetRDF_HollowSphere(ensemble, radSteps=20, sampleFrac=.4, dr=.05):
+def GetRDF(ensemble, radSteps=20, sampleFrac=.4, dr=.05):
     '''
     Parameters
     ----------
@@ -66,7 +66,9 @@ def GetRDF_HollowSphere(ensemble, radSteps=20, sampleFrac=.4, dr=.05):
         Number of steps in radius value for RDF. The default is 20.
     sampleFrac : float, optional
         Fraction of atoms to select for RDF (<= 1). The default is .2.
-
+    dr : float
+        small change in radius for counting number of particles between spheres
+        of slightly different radii. 
     Returns
     -------
     Pandas DataFrame
