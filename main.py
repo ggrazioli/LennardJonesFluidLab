@@ -4,7 +4,6 @@
 Created on Sun Nov 28 14:43:33 2021
 
 @author: Gianmarc Grazioli 
-test token
 """ 
  
 from classes import Ensemble
