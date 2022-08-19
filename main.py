@@ -32,6 +32,3 @@ print('Execution time: ' + str(int(executionTime / 60)) + " min and ", str(int(e
 
 
 
-
-
-
