@@ -27,3 +27,7 @@ Statistical mechanics afficionados should note that the simulations are of NVE e
 Have fun! 
 
 Dr. G
+
+Luca Arrigo Zammataro (@lucazammataro) has also written an excellent Lennard-Jones simulation code, and although this code did not fork off of it, his code was quite helpful in the development of portions of this code. Thank you, Luca! 
+
+
