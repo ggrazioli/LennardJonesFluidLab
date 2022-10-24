@@ -24,7 +24,7 @@ More experienced programmers that want to jump straight into using the Lennard-J
 
 Statistical mechanics afficionados should note that the simulations are of NVE ensembles, aka microcanonical ensembles. 
 
-For anyone interested in publishing work that references this work, citable link for this code has been created through Zenodo:
+For anyone interested in publishing work that references this work, a citable link for this code has been created through Zenodo:  
 [![DOI](https://zenodo.org/badge/450248874.svg)](https://zenodo.org/badge/latestdoi/450248874)
 
 Have fun! 
