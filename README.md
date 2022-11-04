@@ -15,7 +15,7 @@ A paper on using this LJ simulation code in two different instructional activiti
 
 This lab activity is intended to be used as part of an undergraduate physical chemistry lab course, but really the only prerequisite is that the student knows how to take the derivative of a polynomial. The activity does require students to write some Python code, but the video linked above explains everything, so this can absolutely be completed by students who have never written a line of code in their life. In fact, I would argue that this activity is a great way to introduce someone interested in physical chemistry and/or chemical physics to programming in Python. Luca Arrigo Zammataro (@lucazammataro) has also written an excellent Lennard-Jones simulation code, and although this code did not fork off of it, his code was a helpful reference during the development of portions of this code. Thank you, Luca! 
 
-The Jupyter notebook LennardJonesFluidLab.ipynb gives some background on LJ fluid simulations, and guides students along with the activity. It is recommended that students:
+The Jupyter notebook LennardJonesFluidLab.ipynb gives some background on LJ fluid simulations, and guides students along with the activity. To complete the activity through Google Colab (recommended for devices with less RAM, like tablets), please click on the LennardJonesFluidLab_Colab_public.ipynb. For anyone who wishes to run the code locally on their computer (should run well on most laptops), it is recommended that you:
 1. Get Anaconda installed on your computer
 2. Start the video linked above
 3. Follow along with the video to point of getting the Jupyter notebook open.
