@@ -31,6 +31,3 @@ For anyone interested in publishing work that references this work, a citable DO
 Have fun! 
 
 Dr. G
-
-
-
