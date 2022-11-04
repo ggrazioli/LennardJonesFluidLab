@@ -10,6 +10,8 @@ http://gianmarc.com/
 The lab activity includes a YouTube video, making it possible to assign this activity as a fully asynchronous lab activity. The video that accompanies this lab activity can be found here:
 https://youtu.be/WgyuJYh1VaA
 
+A paper on using this LJ simulation code in two different instructional activities is also currently under review at the ACS Journal of Chemical Education titled "Foregrounding the code: Computational chemistry instructional activities using a highly readable fluid simulation code." A preprint is available here: https://chemrxiv.org/engage/chemrxiv/article-details/630845a5f07ee15d1cf206a6 
+
 
 This lab activity is intended to be used as part of an undergraduate physical chemistry lab course, but really the only prerequisite is that the student knows how to take the derivative of a polynomial. The activity does require students to write some Python code, but the video linked above explains everything, so this can absolutely be completed by students who have never written a line of code in their life. In fact, I would argue that this activity is a great way to introduce someone interested in physical chemistry and/or chemical physics to programming in Python. Luca Arrigo Zammataro (@lucazammataro) has also written an excellent Lennard-Jones simulation code, and although this code did not fork off of it, his code was a helpful reference during the development of portions of this code. Thank you, Luca! 
 
